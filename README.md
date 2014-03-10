@@ -3,7 +3,7 @@ Demo application for AngularJS seminar
 
 Check out the live demo at http://duylam.github.io/angularjs-techcamp2014
 
-This is the source code of demo application for AngularJS seminar at TechCamp Sai Gon 2014. The presentation slide can be [downloaded from here](http://www.slideshare.net/duypl/building-singlepage-web-applications-with-angularjs). The demo app uses following libraries:
+This is the source code of demo application for AngularJS seminar at TechCamp Sai Gon 2014. The presentation slide can be [downloaded from here](http://www.slideshare.net/duypl/building-singlepage-web-applications-with-angularjs-techcamp-sai-gon-2014). The demo app uses following libraries:
 
 - [AngularJS](http://angularjs.org/) (of course)
 - [Twitter Bootstrap](http://getbootstrap.com/) to make life easier :)
